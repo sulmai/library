@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_policy">
+    <sys_ui_policy action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <conditions table="x_285809_library_table">u_physisch=true^ORu_physisch=false^u_medienart=software^ORu_medienart=film^ORu_medienart=brett^ORu_medienart=video^ORu_medienart=andere^EQ<item endquery="false" field="u_physisch" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="false" field="u_physisch" goto="false" newquery="false" operator="=" or="true" value="false"/>
+            <item endquery="false" field="u_medienart" goto="false" newquery="false" operator="=" or="false" value="software"/>
+            <item endquery="false" field="u_medienart" goto="false" newquery="false" operator="=" or="true" value="film"/>
+            <item endquery="false" field="u_medienart" goto="false" newquery="false" operator="=" or="true" value="brett"/>
+            <item endquery="false" field="u_medienart" goto="false" newquery="false" operator="=" or="true" value="video"/>
+            <item endquery="false" field="u_medienart" goto="false" newquery="false" operator="=" or="true" value="andere"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </conditions>
+        <description/>
+        <global>true</global>
+        <inherit>false</inherit>
+        <isolate_script>true</isolate_script>
+        <model_id/>
+        <model_table/>
+        <on_load>true</on_load>
+        <order>100</order>
+        <reverse_if_false>true</reverse_if_false>
+        <run_scripts>false</run_scripts>
+        <script_false><![CDATA[function onCondition() {
+
+}]]></script_false>
+        <script_true><![CDATA[function onCondition() {
+
+}]]></script_true>
+        <set_values/>
+        <short_description>Anzeigen/Ausblenden Produzent</short_description>
+        <sys_class_name>sys_ui_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-16 01:43:29</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>cc3aa72fdb85230000c29c66db9619fa</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Anzeigen/Ausblenden Produzent</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Library" source="x_285809_library">6282c66fdb81230000c29c66db9619d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Library">6282c66fdb81230000c29c66db9619d3</sys_scope>
+        <sys_update_name>sys_ui_policy_cc3aa72fdb85230000c29c66db9619fa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-16 01:49:26</sys_updated_on>
+        <table>x_285809_library_table</table>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_ui_policy>
+</record_update>

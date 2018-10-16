@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_medienart" table="x_285809_library_table" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_medienart</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Buch</label>
+            <language>en</language>
+            <name>x_285809_library_table</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-15 22:01:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>57e73e6fdb05230000c29c66db961932</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-15 22:01:15</sys_updated_on>
+            <value>buch</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_medienart</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Software</label>
+            <language>en</language>
+            <name>x_285809_library_table</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-15 22:01:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>17e73e6fdb05230000c29c66db961934</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-16 01:21:51</sys_updated_on>
+            <value>software</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_medienart</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Film/Video</label>
+            <language>en</language>
+            <name>x_285809_library_table</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-15 22:01:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>13e73e6fdb05230000c29c66db961936</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-16 01:21:51</sys_updated_on>
+            <value>film</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_medienart</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Brettspiel</label>
+            <language>en</language>
+            <name>x_285809_library_table</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-16 01:21:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6dd52b6bdb85230000c29c66db9619b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-16 01:21:51</sys_updated_on>
+            <value>brett</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_medienart</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Videospiel</label>
+            <language>en</language>
+            <name>x_285809_library_table</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-15 22:01:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>93e73e6fdb05230000c29c66db961935</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-16 01:21:51</sys_updated_on>
+            <value>video</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_medienart</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Andere</label>
+            <language>en</language>
+            <name>x_285809_library_table</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-16 01:21:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>29d52b6bdb85230000c29c66db9619b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-16 01:21:51</sys_updated_on>
+            <value>andere</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_medienart</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>E-Book</label>
+            <language>en</language>
+            <name>x_285809_library_table</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-15 22:01:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>97e73e6fdb05230000c29c66db961933</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-16 01:21:51</sys_updated_on>
+            <value>e-book</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_medienart</element>
+            <name>x_285809_library_table</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-15 22:01:15</sys_created_on>
+            <sys_id>9fe73e6fdb05230000c29c66db961932</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_medienart</sys_name>
+            <sys_package display_value="Library" source="x_285809_library">6282c66fdb81230000c29c66db9619d3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Library">6282c66fdb81230000c29c66db9619d3</sys_scope>
+            <sys_update_name>sys_choice_x_285809_library_table_u_medienart</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-15 22:01:15</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

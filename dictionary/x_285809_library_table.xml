@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="live_feed=true" label="Library Table" max_length="40" name="x_285809_library_table" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Andere" mandatory="true" max_length="255" name="andere" type="string_full_utf8"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Medien ID" max_length="40" name="number" read_only="true" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" label="Autor" mandatory="true" max_length="255" name="u_autor" type="string_full_utf8"/>
+        <element label="Physisch vorhanden" max_length="40" name="u_boolean_7" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="bibliothek" label="Standort" mandatory="true" max_length="40" name="u_choice_3" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Bibliothek am Tal" sequence="0" value="bibliothek"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="lokaler Server" sequence="1" value="server"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 3" sequence="2" value="Choice 3"/>
+                <element inactive_on_update="false" label="Cloud" sequence="2" value="cloud"/>
+            </choice>
+        </element>
+        <element label="Erscheinungsdatum" mandatory="true" max_length="40" name="u_erscheinung" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Herausgeber" mandatory="true" max_length="255" name="u_herausgeber" type="string_full_utf8"/>
+        <element label="ISBN" mandatory="true" max_length="40" name="u_isbn" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Kurzbeschreibung" mandatory="true" max_length="255" name="u_kurz" type="string_full_utf8"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="buch" label="Medienart" mandatory="true" max_length="40" name="u_medienart" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Buch" sequence="0" value="buch"/>
+                <element inactive_on_update="false" label="Software" sequence="1" value="software"/>
+                <element inactive_on_update="false" label="Film/Video" sequence="2" value="film"/>
+                <element inactive_on_update="false" label="Brettspiel" sequence="3" value="brett"/>
+                <element inactive_on_update="false" label="Videospiel" sequence="4" value="video"/>
+                <element inactive_on_update="false" label="Andere" sequence="5" value="andere"/>
+                <element inactive_on_update="false" label="E-Book" sequence="6" value="e-book"/>
+            </choice>
+        </element>
+        <element label="Physisch vorhanden" max_length="40" name="u_physisch" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Produzent" mandatory="true" max_length="255" name="u_produzent" type="string_full_utf8"/>
+        <element attributes="edge_encryption_enabled=true" label="Regisseur" mandatory="true" max_length="255" name="u_regisseur" type="string_full_utf8"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="bibliothek" label="Standort" mandatory="true" max_length="40" name="u_standort" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Bibliothek" sequence="0" value="bibliothek"/>
+                <element inactive_on_update="false" label="Server" sequence="1" value="server"/>
+                <element inactive_on_update="false" label="Cloud" sequence="2" value="cloud"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Titel" mandatory="true" max_length="255" name="u_titel" type="string_full_utf8"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>
