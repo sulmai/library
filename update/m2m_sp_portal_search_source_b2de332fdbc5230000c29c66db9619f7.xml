@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_portal_search_source">
+    <m2m_sp_portal_search_source action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <sp_portal display_value="Library">63fd73ebdbc5230000c29c66db961935</sp_portal>
+        <sp_search_source display_value="Bibliothek">5caef32fdbc5230000c29c66db9619c5</sp_search_source>
+        <sys_class_name>m2m_sp_portal_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-16 03:11:09</sys_created_on>
+        <sys_id>b2de332fdbc5230000c29c66db9619f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Library.Bibliothek</sys_name>
+        <sys_package display_value="Library" source="x_285809_library">6282c66fdb81230000c29c66db9619d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Library">6282c66fdb81230000c29c66db9619d3</sys_scope>
+        <sys_update_name>m2m_sp_portal_search_source_b2de332fdbc5230000c29c66db9619f7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-16 03:11:09</sys_updated_on>
+    </m2m_sp_portal_search_source>
+</record_update>
