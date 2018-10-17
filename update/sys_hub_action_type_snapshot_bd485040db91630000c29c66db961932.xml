@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_type_snapshot">
+    <sys_hub_action_type_snapshot action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <annotation/>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>ausleihen</internal_name>
+        <label_cache>[]</label_cache>
+        <master>true</master>
+        <name>Ausleihen</name>
+        <outputs/>
+        <parent_action display_value="Ausleihen">09e758ccdbdd230000c29c66db961968</parent_action>
+        <sys_class_name>sys_hub_action_type_snapshot</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-16 23:40:43</sys_created_on>
+        <sys_id>bd485040db91630000c29c66db961932</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Ausleihen</sys_name>
+        <sys_package display_value="Library" source="x_285809_library">6282c66fdb81230000c29c66db9619d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Library">6282c66fdb81230000c29c66db9619d3</sys_scope>
+        <sys_update_name>sys_hub_action_type_snapshot_bd485040db91630000c29c66db961932</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-16 23:44:08</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_snapshot>
+    <sys_translated_text action="delete_multiple" query="documentkey=bd485040db91630000c29c66db961932"/>
+    <sys_variable_value action="delete_multiple" query="document_key=bd485040db91630000c29c66db961932"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_type_snapshot</document>
+        <document_key>bd485040db91630000c29c66db961932</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-16 23:40:43</sys_created_on>
+        <sys_id>f1485040db91630000c29c66db961945</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-16 23:40:43</sys_updated_on>
+        <value>ausgliehen</value>
+        <variable display_value="">75485040db91630000c29c66db96193d</variable>
+    </sys_variable_value>
+</record_update>

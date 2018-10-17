@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="ausgeliehen" label="Ausgeliehen" language="en" table="var__m_sys_hub_action_output_8c191840db91630000c29c66db9619fe">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>ausgeliehen</element>
+            <help/>
+            <hint/>
+            <label>Ausgeliehen</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_output_8c191840db91630000c29c66db9619fe</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-16 23:44:08</sys_created_on>
+            <sys_id>48195840db91630000c29c66db961909</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Ausgeliehen</sys_name>
+            <sys_package display_value="Library" source="x_285809_library">6282c66fdb81230000c29c66db9619d3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Library">6282c66fdb81230000c29c66db9619d3</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_action_output_8c191840db91630000c29c66db9619fe_ausgeliehen_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-16 23:44:08</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

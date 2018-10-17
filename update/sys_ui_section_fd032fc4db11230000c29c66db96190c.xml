@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="fd032fc4db11230000c29c66db96190c" sys_domain="global" table="catalog_script_client" version="3" view="advanced">
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-17 14:30:15</sys_created_on>
+            <sys_id>84e32308db11230000c29c66db961966</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-17 14:30:15</sys_updated_on>
+            <text>${gs.getMessage("Client script isolation annotation")}</text>
+            <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
+        </sys_ui_annotation>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>84e32308db11230000c29c66db961966</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-17 14:30:15</sys_created_on>
+            <sys_id>48e32308db11230000c29c66db961966</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="catalog_script_client" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">fd032fc4db11230000c29c66db96190c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-17 14:30:15</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-17 14:30:15</sys_created_on>
+            <sys_id>c8e32308db11230000c29c66db961966</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="catalog_script_client" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">fd032fc4db11230000c29c66db96190c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-17 14:30:15</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-17 14:30:15</sys_created_on>
+            <sys_id>4ce32308db11230000c29c66db961966</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="catalog_script_client" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">fd032fc4db11230000c29c66db96190c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-17 14:30:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>applies_to</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-17 14:30:15</sys_created_on>
+            <sys_id>cce32308db11230000c29c66db961966</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="catalog_script_client" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">fd032fc4db11230000c29c66db96190c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-17 14:30:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-17 14:30:15</sys_created_on>
+            <sys_id>40e32308db11230000c29c66db961967</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="catalog_script_client" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">fd032fc4db11230000c29c66db96190c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-17 14:30:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>applies_extended</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-17 14:30:15</sys_created_on>
+            <sys_id>c0e32308db11230000c29c66db961967</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="catalog_script_client" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">fd032fc4db11230000c29c66db96190c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-17 14:30:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>global</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-17 14:30:15</sys_created_on>
+            <sys_id>44e32308db11230000c29c66db961967</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="catalog_script_client" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">fd032fc4db11230000c29c66db96190c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-17 14:30:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ui_type</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-17 14:30:15</sys_created_on>
+            <sys_id>c4e32308db11230000c29c66db961967</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="catalog_script_client" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">fd032fc4db11230000c29c66db96190c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-17 14:30:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-17 14:30:15</sys_created_on>
+            <sys_id>48e32308db11230000c29c66db961967</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="catalog_script_client" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">fd032fc4db11230000c29c66db96190c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-17 14:30:15</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_scope</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-17 14:30:15</sys_created_on>
+            <sys_id>c8e32308db11230000c29c66db961967</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="catalog_script_client" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">fd032fc4db11230000c29c66db96190c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-17 14:30:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>type</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-17 14:30:15</sys_created_on>
+            <sys_id>4ce32308db11230000c29c66db961967</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="catalog_script_client" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">fd032fc4db11230000c29c66db96190c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-17 14:30:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>table</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-17 14:30:15</sys_created_on>
+            <sys_id>cce32308db11230000c29c66db961967</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="catalog_script_client" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">fd032fc4db11230000c29c66db96190c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-17 14:30:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>field</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-17 14:30:15</sys_created_on>
+            <sys_id>40e32308db11230000c29c66db961968</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="catalog_script_client" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">fd032fc4db11230000c29c66db96190c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-17 14:30:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cat_item</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-17 14:30:15</sys_created_on>
+            <sys_id>c0e32308db11230000c29c66db961968</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="catalog_script_client" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">fd032fc4db11230000c29c66db96190c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-17 14:30:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>variable_set</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-17 14:30:15</sys_created_on>
+            <sys_id>8ce36708db11230000c29c66db9619cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="catalog_script_client" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">fd032fc4db11230000c29c66db96190c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-17 14:30:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cat_variable</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-17 14:30:15</sys_created_on>
+            <sys_id>00e36708db11230000c29c66db9619cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="catalog_script_client" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">fd032fc4db11230000c29c66db96190c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-17 14:30:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>applies_catalog</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-17 14:30:15</sys_created_on>
+            <sys_id>80e36708db11230000c29c66db9619cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="catalog_script_client" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">fd032fc4db11230000c29c66db96190c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-17 14:30:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>applies_req_item</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-17 14:30:15</sys_created_on>
+            <sys_id>04e36708db11230000c29c66db9619cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="catalog_script_client" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">fd032fc4db11230000c29c66db96190c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-17 14:30:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>applies_sc_task</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-17 14:30:15</sys_created_on>
+            <sys_id>84e36708db11230000c29c66db9619cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="catalog_script_client" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">fd032fc4db11230000c29c66db96190c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-17 14:30:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>applies_target_record</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-17 14:30:15</sys_created_on>
+            <sys_id>08e36708db11230000c29c66db9619cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="catalog_script_client" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">fd032fc4db11230000c29c66db96190c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-17 14:30:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>20</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-17 14:30:15</sys_created_on>
+            <sys_id>88e36708db11230000c29c66db9619cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="catalog_script_client" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">fd032fc4db11230000c29c66db96190c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-17 14:30:15</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>script</element>
+            <position>21</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-17 14:30:15</sys_created_on>
+            <sys_id>0ce36708db11230000c29c66db9619cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="catalog_script_client" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">fd032fc4db11230000c29c66db96190c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-17 14:30:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>catalog_script_client</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-17 14:26:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fd032fc4db11230000c29c66db96190c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>catalog_script_client</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Library" source="x_285809_library">6282c66fdb81230000c29c66db9619d3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Library">6282c66fdb81230000c29c66db9619d3</sys_scope>
+            <sys_update_name>sys_ui_section_fd032fc4db11230000c29c66db96190c</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-17 14:26:32</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Advanced" name="advanced">7966be310a0a0b8c00bd504090503227</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="u_herausgeber" label="Herausgeber" language="en" table="x_285809_library_table">
+    <sys_documentation element="ausleihen" label="Ausleihen" language="en" table="var__m_sys_hub_action_input_bd485040db91630000c29c66db961932">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>u_herausgeber</element>
+            <element>ausleihen</element>
             <help/>
             <hint/>
-            <label>Herausgeber</label>
+            <label>Ausleihen</label>
             <language>en</language>
-            <name>x_285809_library_table</name>
-            <plural>Herausgebers</plural>
+            <name>var__m_sys_hub_action_input_bd485040db91630000c29c66db961932</name>
+            <plural/>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-15 22:06:40</sys_created_on>
-            <sys_id>2a29f6afdb05230000c29c66db96199c</sys_id>
+            <sys_created_on>2018-10-16 23:40:43</sys_created_on>
+            <sys_id>f9485040db91630000c29c66db96193a</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Herausgeber</sys_name>
+            <sys_name>Ausleihen</sys_name>
             <sys_package display_value="Library" source="x_285809_library">6282c66fdb81230000c29c66db9619d3</sys_package>
             <sys_policy/>
             <sys_scope display_value="Library">6282c66fdb81230000c29c66db9619d3</sys_scope>
-            <sys_update_name>sys_documentation_x_285809_library_table_u_herausgeber_en</sys_update_name>
+            <sys_update_name>sys_documentation_var__m_sys_hub_action_input_bd485040db91630000c29c66db961932_ausleihen_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-15 22:06:40</sys_updated_on>
+            <sys_updated_on>2018-10-16 23:40:43</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

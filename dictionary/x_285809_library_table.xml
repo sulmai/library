@@ -16,7 +16,7 @@
             </choice>
         </element>
         <element label="Erscheinungsdatum" mandatory="true" max_length="40" name="u_erscheinung" type="glide_date"/>
-        <element attributes="edge_encryption_enabled=true" label="Herausgeber" mandatory="true" max_length="255" name="u_herausgeber" type="string_full_utf8"/>
+        <element label="Lieferdatum" mandatory="true" max_length="40" name="u_glide_date_2" type="glide_date"/>
         <element label="ISBN" mandatory="true" max_length="40" name="u_isbn" type="integer"/>
         <element attributes="edge_encryption_enabled=true" label="Kurzbeschreibung" mandatory="true" max_length="255" name="u_kurz" type="string_full_utf8"/>
         <element attributes="edge_encryption_enabled=true" choice="3" default="buch" label="Medienart" mandatory="true" max_length="40" name="u_medienart" type="string">
@@ -32,7 +32,6 @@
         </element>
         <element label="Physisch vorhanden" max_length="40" name="u_physisch" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" label="Produzent" mandatory="true" max_length="255" name="u_produzent" type="string_full_utf8"/>
-        <element attributes="edge_encryption_enabled=true" label="Regisseur" mandatory="true" max_length="255" name="u_regisseur" type="string_full_utf8"/>
         <element attributes="edge_encryption_enabled=true" choice="3" default="bibliothek" label="Standort" mandatory="true" max_length="40" name="u_standort" type="string">
             <choice>
                 <element inactive_on_update="false" label="Bibliothek" sequence="0" value="bibliothek"/>
@@ -41,6 +40,13 @@
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Titel" mandatory="true" max_length="255" name="u_titel" type="string_full_utf8"/>
+        <element choice="3" default="verfugbar" label="Status" mandatory="true" max_length="40" name="verfugbar" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="ausgeliehen" language="de" value="ausgeliehen"/>
+                <element inactive_on_update="false" label="verfügbar" sequence="0" value="verfugbar"/>
+                <element inactive_on_update="false" label="bestellt" sequence="2" value="bestellt"/>
+            </choice>
+        </element>
         <index name="index">
             <element name="sys_class_name"/>
         </index>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="123">c3f663c8db11230000c29c66db9619b7</sc_cat_item>
+        <sc_catalog display_value="Bibliothek">73d30c73db09230000c29c66db96191c</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-17 14:44:11</sys_created_on>
+        <sys_id>0817a3c8db11230000c29c66db961983</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Bibliothek.123</sys_name>
+        <sys_package display_value="Library" source="x_285809_library">6282c66fdb81230000c29c66db9619d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Library">6282c66fdb81230000c29c66db9619d3</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_0817a3c8db11230000c29c66db961983</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-17 14:44:11</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>
