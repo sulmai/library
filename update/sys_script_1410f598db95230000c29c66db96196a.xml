@@ -30,15 +30,12 @@
         <rest_variables/>
         <role_conditions/>
         <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
-//var currenttime = new GlideDate().getDisplayValue();
-//current.u_ausleihe = currenttime.addDays(12);
-var sDt = new GlideDateTime(current.u_ausleihe);
+var currenttime = new GlideDate().getDisplayValue();
+current.u_ausleihe = currenttime;
+var gdt = new GlideDateTime(current.u_ausleihe); 
+gdt.addDaysLocalTime(28);
+current.u_ruckgabe = gdt.getDate();
 
-
-var one = new GlideDateTime(current.u_ausleihe);
-
-
-one.addDaysLocalTime(-1);
 current.update();
 	
 })(current, previous);]]></script>
@@ -48,7 +45,7 @@ current.update();
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>1410f598db95230000c29c66db96196a</sys_id>
-        <sys_mod_count>65</sys_mod_count>
+        <sys_mod_count>74</sys_mod_count>
         <sys_name>Ausleihe</sys_name>
         <sys_overrides/>
         <sys_package display_value="Library" source="x_285809_library">6282c66fdb81230000c29c66db9619d3</sys_package>
@@ -56,7 +53,7 @@ current.update();
         <sys_scope display_value="Library">6282c66fdb81230000c29c66db9619d3</sys_scope>
         <sys_update_name>sys_script_1410f598db95230000c29c66db96196a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-10-18 02:50:23</sys_updated_on>
+        <sys_updated_on>2018-10-18 04:05:07</sys_updated_on>
         <template>u_ruckgabe=^EQ</template>
         <when>before</when>
     </sys_script>
