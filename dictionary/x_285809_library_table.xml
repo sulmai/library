@@ -3,6 +3,8 @@
         <element attributes="edge_encryption_enabled=true" label="Andere" mandatory="true" max_length="255" name="andere" type="string_full_utf8"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Medien ID" max_length="40" name="number" read_only="true" type="string"/>
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Ausgeliehen am" max_length="40" name="u_ausgeliehen" type="glide_date_time"/>
+        <element label="Ausgeliehen am" max_length="40" name="u_ausleihe" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" label="Autor" mandatory="true" max_length="255" name="u_autor" type="string_full_utf8"/>
         <element label="Physisch vorhanden" max_length="40" name="u_boolean_7" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" choice="3" default="bibliothek" label="Standort" mandatory="true" max_length="40" name="u_choice_3" type="string">
@@ -15,6 +17,7 @@
                 <element inactive_on_update="false" label="Cloud" sequence="2" value="cloud"/>
             </choice>
         </element>
+        <element label="Due DATE" max_length="40" name="u_due_date" type="due_date"/>
         <element label="Erscheinungsdatum" mandatory="true" max_length="40" name="u_erscheinung" type="glide_date"/>
         <element label="Lieferdatum" mandatory="true" max_length="40" name="u_glide_date_2" type="glide_date"/>
         <element label="ISBN" mandatory="true" max_length="40" name="u_isbn" type="integer"/>
@@ -32,6 +35,8 @@
         </element>
         <element label="Physisch vorhanden" max_length="40" name="u_physisch" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" label="Produzent" mandatory="true" max_length="255" name="u_produzent" type="string_full_utf8"/>
+        <element label="Rückgabe am:" max_length="40" name="u_rckgabe" type="glide_date_time"/>
+        <element label="Rückgabe am" max_length="40" name="u_ruckgabe" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" choice="3" default="bibliothek" label="Standort" mandatory="true" max_length="40" name="u_standort" type="string">
             <choice>
                 <element inactive_on_update="false" label="Bibliothek" sequence="0" value="bibliothek"/>
@@ -40,14 +45,19 @@
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Titel" mandatory="true" max_length="255" name="u_titel" type="string_full_utf8"/>
+        <element label="Ausgeliehen von:" max_length="32" name="u_user" reference="sys_user" type="reference"/>
         <element choice="3" default="verfugbar" label="Status" mandatory="true" max_length="40" name="verfugbar" type="choice">
             <choice>
                 <element inactive_on_update="false" label="ausgeliehen" language="de" value="ausgeliehen"/>
+                <element inactive="true" inactive_on_update="true" label="bestellt" sequence="0" value="bestellt"/>
                 <element inactive_on_update="false" label="verfügbar" sequence="0" value="verfugbar"/>
-                <element inactive_on_update="false" label="bestellt" sequence="2" value="bestellt"/>
+                <element inactive_on_update="false" label="nicht verfügbar" sequence="1" value="nverfugbar"/>
             </choice>
         </element>
         <index name="index">
+            <element name="u_user"/>
+        </index>
+        <index name="index2">
             <element name="sys_class_name"/>
         </index>
     </element>
