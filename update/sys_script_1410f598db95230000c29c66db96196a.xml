@@ -37,7 +37,8 @@ gdt.addDaysLocalTime(28);
 current.u_ruckgabe = gdt.getDate();
 current.u_user = gs.getUserID();
 current.update();
-	
+
+
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -45,7 +46,7 @@ current.update();
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>1410f598db95230000c29c66db96196a</sys_id>
-        <sys_mod_count>75</sys_mod_count>
+        <sys_mod_count>77</sys_mod_count>
         <sys_name>Ausleihe</sys_name>
         <sys_overrides/>
         <sys_package display_value="Library" source="x_285809_library">6282c66fdb81230000c29c66db9619d3</sys_package>
@@ -53,7 +54,7 @@ current.update();
         <sys_scope display_value="Library">6282c66fdb81230000c29c66db9619d3</sys_scope>
         <sys_update_name>sys_script_1410f598db95230000c29c66db96196a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-10-18 04:09:59</sys_updated_on>
+        <sys_updated_on>2018-10-18 14:55:15</sys_updated_on>
         <template>u_ruckgabe=^EQ</template>
         <when>before</when>
     </sys_script>

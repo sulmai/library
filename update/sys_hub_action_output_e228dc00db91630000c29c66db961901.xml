@@ -40,7 +40,7 @@
         <label>Ausgeliehen</label>
         <mandatory>false</mandatory>
         <max_length>8000</max_length>
-        <model display_value="Ausleihen">09e758ccdbdd230000c29c66db961968</model>
+        <model/>
         <model_id>09e758ccdbdd230000c29c66db961968</model_id>
         <model_table>sys_hub_action_type_definition</model_table>
         <name>var__m_sys_hub_action_output_09e758ccdbdd230000c29c66db961968</name>

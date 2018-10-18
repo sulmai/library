@@ -11,7 +11,7 @@
         <master>true</master>
         <name>Ausleihen</name>
         <outputs/>
-        <parent_action display_value="Ausleihen">09e758ccdbdd230000c29c66db961968</parent_action>
+        <parent_action/>
         <sys_class_name>sys_hub_action_type_snapshot</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-10-16 23:40:43</sys_created_on>
