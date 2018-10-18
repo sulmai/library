@@ -45,7 +45,7 @@
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Titel" mandatory="true" max_length="255" name="u_titel" type="string_full_utf8"/>
-        <element label="Ausgeliehen von:" max_length="32" name="u_user" reference="sys_user" type="reference"/>
+        <element label="Ausgeliehen von" max_length="32" name="u_user" reference="sys_user" type="reference"/>
         <element choice="3" default="verfugbar" label="Status" mandatory="true" max_length="40" name="verfugbar" type="choice">
             <choice>
                 <element inactive_on_update="false" label="ausgeliehen" language="de" value="ausgeliehen"/>
