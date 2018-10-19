@@ -3,167 +3,62 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>number</element>
-            <list_id display_value="x_285809_library_table" element="NULL" name="x_285809_library_table" parent="NULL" relationship="NULL" sys_domain="global" view="a3b0b62cdb91630000c29c66db9619fe">e58c1be8db15630000c29c66db9619f1</list_id>
+            <list_id display_value="x_285809_library_table" element="NULL" name="x_285809_library_table" parent="NULL" relationship="NULL" sys_domain="global" view="a3b0b62cdb91630000c29c66db9619fe">79c87facdb55630000c29c66db961961</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-19 03:15:05</sys_created_on>
-            <sys_id>218c1be8db15630000c29c66db9619f2</sys_id>
+            <sys_created_on>2018-10-19 05:18:31</sys_created_on>
+            <sys_id>31c87facdb55630000c29c66db961962</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-19 03:15:05</sys_updated_on>
+            <sys_updated_on>2018-10-19 05:18:31</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>opened_at</element>
-            <list_id display_value="x_285809_library_table" element="NULL" name="x_285809_library_table" parent="NULL" relationship="NULL" sys_domain="global" view="a3b0b62cdb91630000c29c66db9619fe">e58c1be8db15630000c29c66db9619f1</list_id>
+            <element>u_autor</element>
+            <list_id display_value="x_285809_library_table" element="NULL" name="x_285809_library_table" parent="NULL" relationship="NULL" sys_domain="global" view="a3b0b62cdb91630000c29c66db9619fe">79c87facdb55630000c29c66db961961</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-19 03:15:05</sys_created_on>
-            <sys_id>a18c1be8db15630000c29c66db9619f2</sys_id>
+            <sys_created_on>2018-10-19 05:18:31</sys_created_on>
+            <sys_id>b1c87facdb55630000c29c66db961962</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-19 03:15:05</sys_updated_on>
+            <sys_updated_on>2018-10-19 05:18:31</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>short_description</element>
-            <list_id display_value="x_285809_library_table" element="NULL" name="x_285809_library_table" parent="NULL" relationship="NULL" sys_domain="global" view="a3b0b62cdb91630000c29c66db9619fe">e58c1be8db15630000c29c66db9619f1</list_id>
+            <element>u_medienart</element>
+            <list_id display_value="x_285809_library_table" element="NULL" name="x_285809_library_table" parent="NULL" relationship="NULL" sys_domain="global" view="a3b0b62cdb91630000c29c66db9619fe">79c87facdb55630000c29c66db961961</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-19 03:15:05</sys_created_on>
-            <sys_id>258c1be8db15630000c29c66db9619f2</sys_id>
+            <sys_created_on>2018-10-19 05:18:31</sys_created_on>
+            <sys_id>35c87facdb55630000c29c66db961962</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-19 03:15:05</sys_updated_on>
+            <sys_updated_on>2018-10-19 05:18:31</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>caller_id</element>
-            <list_id display_value="x_285809_library_table" element="NULL" name="x_285809_library_table" parent="NULL" relationship="NULL" sys_domain="global" view="a3b0b62cdb91630000c29c66db9619fe">e58c1be8db15630000c29c66db9619f1</list_id>
+            <element>u_titel</element>
+            <list_id display_value="x_285809_library_table" element="NULL" name="x_285809_library_table" parent="NULL" relationship="NULL" sys_domain="global" view="a3b0b62cdb91630000c29c66db9619fe">79c87facdb55630000c29c66db961961</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-19 03:15:05</sys_created_on>
-            <sys_id>a58c1be8db15630000c29c66db9619f2</sys_id>
+            <sys_created_on>2018-10-19 05:18:31</sys_created_on>
+            <sys_id>b5c87facdb55630000c29c66db961962</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-19 03:15:05</sys_updated_on>
-        </sys_ui_list_element>
-        <sys_ui_list_element action="INSERT_OR_UPDATE">
-            <average_value>false</average_value>
-            <element>priority</element>
-            <list_id display_value="x_285809_library_table" element="NULL" name="x_285809_library_table" parent="NULL" relationship="NULL" sys_domain="global" view="a3b0b62cdb91630000c29c66db9619fe">e58c1be8db15630000c29c66db9619f1</list_id>
-            <max_value>false</max_value>
-            <min_value>false</min_value>
-            <position>4</position>
-            <sum>false</sum>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-19 03:15:05</sys_created_on>
-            <sys_id>298c1be8db15630000c29c66db9619f2</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-19 03:15:05</sys_updated_on>
-        </sys_ui_list_element>
-        <sys_ui_list_element action="INSERT_OR_UPDATE">
-            <average_value>false</average_value>
-            <element>state</element>
-            <list_id display_value="x_285809_library_table" element="NULL" name="x_285809_library_table" parent="NULL" relationship="NULL" sys_domain="global" view="a3b0b62cdb91630000c29c66db9619fe">e58c1be8db15630000c29c66db9619f1</list_id>
-            <max_value>false</max_value>
-            <min_value>false</min_value>
-            <position>5</position>
-            <sum>false</sum>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-19 03:15:05</sys_created_on>
-            <sys_id>a98c1be8db15630000c29c66db9619f2</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-19 03:15:05</sys_updated_on>
-        </sys_ui_list_element>
-        <sys_ui_list_element action="INSERT_OR_UPDATE">
-            <average_value>false</average_value>
-            <element>category</element>
-            <list_id display_value="x_285809_library_table" element="NULL" name="x_285809_library_table" parent="NULL" relationship="NULL" sys_domain="global" view="a3b0b62cdb91630000c29c66db9619fe">e58c1be8db15630000c29c66db9619f1</list_id>
-            <max_value>false</max_value>
-            <min_value>false</min_value>
-            <position>6</position>
-            <sum>false</sum>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-19 03:15:05</sys_created_on>
-            <sys_id>2d8c1be8db15630000c29c66db9619f2</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-19 03:15:05</sys_updated_on>
-        </sys_ui_list_element>
-        <sys_ui_list_element action="INSERT_OR_UPDATE">
-            <average_value>false</average_value>
-            <element>assignment_group</element>
-            <list_id display_value="x_285809_library_table" element="NULL" name="x_285809_library_table" parent="NULL" relationship="NULL" sys_domain="global" view="a3b0b62cdb91630000c29c66db9619fe">e58c1be8db15630000c29c66db9619f1</list_id>
-            <max_value>false</max_value>
-            <min_value>false</min_value>
-            <position>7</position>
-            <sum>false</sum>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-19 03:15:05</sys_created_on>
-            <sys_id>ad8c1be8db15630000c29c66db9619f2</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-19 03:15:05</sys_updated_on>
-        </sys_ui_list_element>
-        <sys_ui_list_element action="INSERT_OR_UPDATE">
-            <average_value>false</average_value>
-            <element>assigned_to</element>
-            <list_id display_value="x_285809_library_table" element="NULL" name="x_285809_library_table" parent="NULL" relationship="NULL" sys_domain="global" view="a3b0b62cdb91630000c29c66db9619fe">e58c1be8db15630000c29c66db9619f1</list_id>
-            <max_value>false</max_value>
-            <min_value>false</min_value>
-            <position>8</position>
-            <sum>false</sum>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-19 03:15:05</sys_created_on>
-            <sys_id>218c1be8db15630000c29c66db9619f3</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-19 03:15:05</sys_updated_on>
-        </sys_ui_list_element>
-        <sys_ui_list_element action="INSERT_OR_UPDATE">
-            <average_value>false</average_value>
-            <element>sys_updated_on</element>
-            <list_id display_value="x_285809_library_table" element="NULL" name="x_285809_library_table" parent="NULL" relationship="NULL" sys_domain="global" view="a3b0b62cdb91630000c29c66db9619fe">e58c1be8db15630000c29c66db9619f1</list_id>
-            <max_value>false</max_value>
-            <min_value>false</min_value>
-            <position>9</position>
-            <sum>false</sum>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-19 03:15:05</sys_created_on>
-            <sys_id>a18c1be8db15630000c29c66db9619f3</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-19 03:15:05</sys_updated_on>
-        </sys_ui_list_element>
-        <sys_ui_list_element action="INSERT_OR_UPDATE">
-            <average_value>false</average_value>
-            <element>sys_updated_by</element>
-            <list_id display_value="x_285809_library_table" element="NULL" name="x_285809_library_table" parent="NULL" relationship="NULL" sys_domain="global" view="a3b0b62cdb91630000c29c66db9619fe">e58c1be8db15630000c29c66db9619f1</list_id>
-            <max_value>false</max_value>
-            <min_value>false</min_value>
-            <position>10</position>
-            <sum>false</sum>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-19 03:15:05</sys_created_on>
-            <sys_id>258c1be8db15630000c29c66db9619f3</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-19 03:15:05</sys_updated_on>
+            <sys_updated_on>2018-10-19 05:18:31</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -177,10 +72,10 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-19 03:15:05</sys_created_on>
+            <sys_created_on>2018-10-19 05:18:31</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>e58c1be8db15630000c29c66db9619f1</sys_id>
+            <sys_id>79c87facdb55630000c29c66db961961</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_285809_library_table</sys_name>
             <sys_package display_value="Library" source="x_285809_library">6282c66fdb81230000c29c66db9619d3</sys_package>
@@ -188,7 +83,7 @@
             <sys_scope display_value="Library">6282c66fdb81230000c29c66db9619d3</sys_scope>
             <sys_update_name>sys_ui_list_x_285809_library_table_RPT27b0b62cdb91630000c29c66db9619f8</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-19 03:15:05</sys_updated_on>
+            <sys_updated_on>2018-10-19 05:18:31</sys_updated_on>
             <sys_user/>
             <view display_value="Rpt27b0b62cdb91630000c29c66db9619f8" name="RPT27b0b62cdb91630000c29c66db9619f8">a3b0b62cdb91630000c29c66db9619fe</view>
             <view_name/>
