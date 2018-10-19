@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_source">
+    <sys_report_source action="INSERT_OR_UPDATE">
+        <description/>
+        <display>Autoren (Library Table)</display>
+        <filter/>
+        <name>Autoren</name>
+        <sys_class_name>sys_report_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-19 00:16:15</sys_created_on>
+        <sys_id>d98336acdb91630000c29c66db961994</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Autoren (Library Table)</sys_name>
+        <sys_package display_value="Library" source="x_285809_library">6282c66fdb81230000c29c66db9619d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Library">6282c66fdb81230000c29c66db9619d3</sys_scope>
+        <sys_update_name>sys_report_source_d98336acdb91630000c29c66db961994</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-19 00:16:15</sys_updated_on>
+        <table>x_285809_library_table</table>
+    </sys_report_source>
+</record_update>

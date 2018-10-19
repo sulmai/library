@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_ui_section caption="Ausleihe" section_id="f23179d8db95230000c29c66db961929" sys_domain="global" table="x_285809_library_table" version="3" view="">
+    <sys_ui_section caption="Ausleihe" section_id="c5f56e24db91630000c29c66db961987" sys_domain="global" table="x_285809_library_table" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_ausleihe</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-18 04:09:19</sys_created_on>
-            <sys_id>925f96d8db19230000c29c66db9619f7</sys_id>
+            <sys_created_on>2018-10-18 23:16:40</sys_created_on>
+            <sys_id>49f5ee24db91630000c29c66db961964</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Ausleihe" display_value="Ausleihe" name="x_285809_library_table" sys_domain="global" view="Default view">f23179d8db95230000c29c66db961929</sys_ui_section>
+            <sys_ui_section caption="Ausleihe" display_value="Ausleihe" name="x_285809_library_table" sys_domain="global" view="Default view">c5f56e24db91630000c29c66db961987</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-18 04:09:19</sys_updated_on>
+            <sys_updated_on>2018-10-18 23:16:40</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>u_ruckgabe</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-18 04:09:19</sys_created_on>
-            <sys_id>1a5f96d8db19230000c29c66db9619f7</sys_id>
+            <sys_created_on>2018-10-18 23:16:40</sys_created_on>
+            <sys_id>cdf5ee24db91630000c29c66db961964</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Ausleihe" display_value="Ausleihe" name="x_285809_library_table" sys_domain="global" view="Default view">f23179d8db95230000c29c66db961929</sys_ui_section>
+            <sys_ui_section caption="Ausleihe" display_value="Ausleihe" name="x_285809_library_table" sys_domain="global" view="Default view">c5f56e24db91630000c29c66db961987</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-18 04:09:19</sys_updated_on>
+            <sys_updated_on>2018-10-18 23:16:40</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>.split</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-18 04:09:19</sys_created_on>
-            <sys_id>9a5f96d8db19230000c29c66db9619f7</sys_id>
+            <sys_created_on>2018-10-18 23:16:40</sys_created_on>
+            <sys_id>41f5ee24db91630000c29c66db961965</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Ausleihe" display_value="Ausleihe" name="x_285809_library_table" sys_domain="global" view="Default view">f23179d8db95230000c29c66db961929</sys_ui_section>
+            <sys_ui_section caption="Ausleihe" display_value="Ausleihe" name="x_285809_library_table" sys_domain="global" view="Default view">c5f56e24db91630000c29c66db961987</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-18 04:09:19</sys_updated_on>
+            <sys_updated_on>2018-10-18 23:16:40</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>u_user</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-18 04:09:19</sys_created_on>
-            <sys_id>1e5f96d8db19230000c29c66db9619f7</sys_id>
+            <sys_created_on>2018-10-18 23:16:40</sys_created_on>
+            <sys_id>c1f5ee24db91630000c29c66db961965</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Ausleihe" display_value="Ausleihe" name="x_285809_library_table" sys_domain="global" view="Default view">f23179d8db95230000c29c66db961929</sys_ui_section>
+            <sys_ui_section caption="Ausleihe" display_value="Ausleihe" name="x_285809_library_table" sys_domain="global" view="Default view">c5f56e24db91630000c29c66db961987</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-18 04:09:19</sys_updated_on>
+            <sys_updated_on>2018-10-18 23:16:40</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -63,19 +63,19 @@
             <roles/>
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-18 00:47:50</sys_created_on>
+            <sys_created_on>2018-10-18 23:16:40</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>f23179d8db95230000c29c66db961929</sys_id>
+            <sys_id>c5f56e24db91630000c29c66db961987</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Ausleihe</sys_name>
             <sys_overrides/>
             <sys_package display_value="Library" source="x_285809_library">6282c66fdb81230000c29c66db9619d3</sys_package>
             <sys_policy/>
             <sys_scope display_value="Library">6282c66fdb81230000c29c66db9619d3</sys_scope>
-            <sys_update_name>sys_ui_section_f23179d8db95230000c29c66db961929</sys_update_name>
+            <sys_update_name>sys_ui_section_c5f56e24db91630000c29c66db961987</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-18 00:47:50</sys_updated_on>
+            <sys_updated_on>2018-10-18 23:16:40</sys_updated_on>
             <sys_user/>
             <title>false</title>
             <view display_value="Default view" name="NULL">Default view</view>
